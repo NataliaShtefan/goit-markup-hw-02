@@ -1,0 +1,85 @@
+body  {
+   font-family: Roboto, sans-serif;
+   font-size: 16px;
+   font-weight: 400;
+   color: #434455;
+   background-color:#FCFCFC ;
+   line-height: 1.5;
+}
+
+.contacts {
+    color: #434455;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    text-decoration: none;
+}
+.contacts:hover, .contacts:focus {
+color: #404BBF
+}
+.page-nav {  
+font-size: 16px;
+line-height: 1.5;
+color: #2E2F42;
+text-decoration: none;
+}
+.page-nav:hover, .page-nav:focus {
+    color: #404BBF  
+}
+header {
+    background-color: #FFFFFF;
+}
+.section {
+    background-color: #2E2F42;
+}
+h1 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+}
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    cursor: pointer;
+}
+button:hover, button:focus {
+    background-color:#404BBF;
+}
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+.our-team {
+    background-color: #F4F4FD;
+}
+footer {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.logo1 
+{
+    color: #4D5AE5;
+
+}
+.logo2 {
+    color: #2E2F42;
+   
+}
+.logo3 {
+    color: #F4F4FD;
+  
+}
+ul {
+    list-style-type: none;
+}
+.logo {
+    text-decoration: none;
+}
