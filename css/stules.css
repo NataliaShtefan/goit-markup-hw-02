@@ -35,7 +35,7 @@ letter-spacing: 0.02em;
 header {
     background-color: #FFFFFF;
 }
-.section1 {
+.section {
     background-color: #2E2F42;
 }
 .skrools {
@@ -59,7 +59,7 @@ header {
 .button:hover, .button:focus {
     background-color:#404BBF;
 }
-.headtwo {
+.nameto {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -69,7 +69,7 @@ header {
     text-align: center;
     
 }
-.headz {
+.nametree {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
