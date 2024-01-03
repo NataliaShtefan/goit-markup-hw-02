@@ -59,7 +59,7 @@ header {
 .button:hover, .button:focus {
     background-color:#404BBF;
 }
-.head2 {
+.headtwo {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -69,7 +69,7 @@ header {
     text-align: center;
     
 }
-.head3 {
+.headz {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -101,7 +101,7 @@ header {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
-.logo1 {
+.logoone {
     color: #F4F4FD;
   
 }
